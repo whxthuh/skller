@@ -15,6 +15,7 @@ It is just a harmless troll, not a real virus.
 - Not for pranks that cause real problems.  
 
 ## Usage
+- There's a 10% chance of getting skulled, using the mouse4 button you can enable the skulls in an image format, using mouse5 you can enable video skulls.
 - Explore the files and see how it works.  
 - Modify or remix it for harmless, creative purposes.  
 - Do not use it maliciously or deceptively.
