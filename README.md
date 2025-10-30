@@ -23,7 +23,8 @@ It is just a harmless troll, not a real virus.
 ## Usage
 - Explore the files and see how it works.  
 - Modify or remix it for harmless, creative purposes.  
-- Do not use it maliciously or deceptively.  
+- Do not use it maliciously or deceptively.
+- To stop this from running you need to end the task through task manager.
 
 ---
 
