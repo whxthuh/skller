@@ -1,2 +1,2 @@
 # skller
-Edit funk skulls!
+The TikTok edit skulls virus.
